@@ -1,4 +1,4 @@
-Eaglercraft 1.20.4
+FalconCraft Alpha
 
 you can also clone this to make your own copy of the web version of Falconcraft Alpha!
 
